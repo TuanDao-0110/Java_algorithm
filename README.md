@@ -11,3 +11,10 @@ Printing Numbers: The program shows the list of numbers on the screen.
 
 Find the Smallest: It looks through the list and finds the smallest number and tells you both what that number is and where it is in the list.
 
+### Exercise 2 : 
+
+Asking for user input.
+Generating random numbers.
+Working with lists of numbers (arrays).
+Displaying information on the screen.
+Simple logic to find a specific number in a list.
