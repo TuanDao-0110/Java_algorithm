@@ -19,3 +19,7 @@
 ### Exercise 3 : 
 
 <li>Find the smallest Positive value in random array</li>
+
+### Exercise 5:
+
+<li>Finding the Nearest Integers to a Given Number in the Given Random Array</li>
