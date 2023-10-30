@@ -15,3 +15,7 @@
 <li>Working with lists of numbers (arrays).</li>
 <li>Displaying information on the screen.</li>
 <li>Simple logic to find a specific number in a list.</li>
+
+### Exercise 3 : 
+
+<li>Find the smallest Positive value in random array</li>
