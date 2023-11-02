@@ -30,3 +30,6 @@
 ### Exercise 7: 
 
 <li> Find the value from random array number that belong to 2 other props numbers
+
+### Exercise 9:
+<li> Find the smallest prime number that greater than all other value
