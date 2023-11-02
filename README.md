@@ -26,3 +26,7 @@
 
 ### Exercise 6:
 <li>Find range from the the random array number
+
+### Exercise 7: 
+
+<li> Find the value from random array number that belong to 2 other props numbers
