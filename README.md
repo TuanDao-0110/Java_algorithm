@@ -23,3 +23,6 @@
 ### Exercise 5:
 
 <li>Finding the Nearest Integers to a Given Number in the Given Random Array</li>
+
+### Exercise 6:
+<li>Find range from the the random array number
